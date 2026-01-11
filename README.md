@@ -1,6 +1,6 @@
 # Ohjelmistotekniikka, kevät 2021
 
-Tämä on Helsingin yliopiston ot-harjoitustyökurssissa kehitetty työpöytäsovellus, jonka avulla käyttäjät pystyvät laatimaan fyysiset harjoitussessiot ja näkemään raporttia suorituksista.
+Tämä on Helsingin yliopiston Ohjelmistotekniikka-kurssilla kehitetty työpöytäsovellus, jonka avulla käyttäjät voivat suunnitella fyysisiä harjoitussessioita ja tarkastella suorituksiin liittyviä raportteja.
 
 ## Huomio Python-versiosta
 
